@@ -7,6 +7,7 @@
   </head>
   <body>
     <a-scene>
+      <a-entity position="-7.329 4.009 -2.399" geometry="primitive:cone" material="color:#860f0a"></a-entity>
    <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9" shadow="" material="color:#ffffff;src:https://cdn.glitch.com/6b3ecbfa-dbec-4a42-a7ac-e0333007589e%2Flicornerose.jpg?1522246611346https://cdn.glitch.com/6b3ecbfa-dbec-4a42-a7ac-e0333007589e%2Fchamp-d-39-herbe-texture_1232-251.jpg?1522245715334" geometry=""></a-box>
     <a-sky color="#ECECEC" material="src:https://cdn.glitch.com/6b3ecbfa-dbec-4a42-a7ac-e0333007589e%2Flicorne7.jpg?1522245206108" geometry=""></a-sky>
     <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D" shadow="" material="color:#f8fdfc;src:https://cdn.glitch.com/6b3ecbfa-dbec-4a42-a7ac-e0333007589e%2FBLING_BLING_STAR_bleu_clair_paillete_ml.jpg?1522243159214" geometry=""></a-cylinder>
